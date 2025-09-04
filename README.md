@@ -77,12 +77,12 @@ dotnet run --project src/Booking.Api/Booking.Api.csproj
 
 Browse Swagger UI:
 ```
-http://localhost:5000/swagger
+http://localhost:8888/swagger
 ```
 
 Or call the endpoint directly:
 ```
-GET http://localhost:5000/api/available-homes?startDate=2025-07-15&endDate=2025-07-16
+GET http://localhost:8888/api/available-homes?startDate=2025-07-15&endDate=2025-07-16
 ```
 
 ## Example Response
