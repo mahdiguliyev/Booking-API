@@ -1,0 +1,80 @@
+# =====================
+# OS
+# =====================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =====================
+# Rider / JetBrains
+# =====================
+.vs/
+.idea/
+*.iml
+out/
+*.ipr
+# =====================
+# Visual Studio / .NET
+# =====================
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.app
+*.log
+*.vsix
+*.user
+*.userosscache
+*.suo
+*.cache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+# Uncomment if you have a global NuGet packages folder
+# ~/.nuget/packages/
+
+# Publish output
+*.Publish.xml
+*.deploy.cmd
+*.deploy-readme.txt
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework / Database
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# =====================
+# ASP.NET Core / Web
+# =====================
+# wwwroot (optional: ignore generated static files if any)
+wwwroot/
+
+# Logs
+logs/
+*.log
+
+# User secrets
+secrets.json
+*.pfx
+*.key
+*.cer
+
+# =====================
+# Other
+# =====================
+.vscode/
+*.swp
+*.swo
+.env
